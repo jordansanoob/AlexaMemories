@@ -1,0 +1,15 @@
+{
+  "name": "mom-bday-present",
+  "version": "1.0.0",
+  "description": "Birthday present for Mom's 2017 Birthday",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Jordan Abbatiello",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.20",
+    "aws-sdk": "^2.153.0"
+  }
+}
